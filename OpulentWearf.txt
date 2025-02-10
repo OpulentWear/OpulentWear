@@ -1,0 +1,410 @@
+[
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 5,
+            "size_over_all": {
+                "ok": 2,
+                "big": 0,
+                "small": 0,
+                "all_size": 2
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 1,
+            "picNum": 0,
+            "total_page": 1,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 5,
+            "size_over_all": {
+                "ok": 2,
+                "big": 0,
+                "small": 0,
+                "all_size": 2
+            },
+            "data": [
+                {
+                    "review_id": "3868570",
+                    "nickname": "B***k",
+                    "rate_overall": "5",
+                    "date": "Jan. 10, 2025",
+                    "imgs": [],
+                    "content": "ove the design and material! definitely recommend this pant!!",
+                    "parent_review_content": "",
+                    "reply": [],
+                    "avatar": "https://review.zafcdn.com/upload/zaful/avatar/20191023/C9AC4CDC2AD22EE16BDCDF1AA6142BE1.jpg",
+                    "review_size": {
+                        "user_id": "1266672",
+                        "goods_id": "1308998",
+                        "goods_sku": "514298302",
+                        "weight": "0",
+                        "shape": "0",
+                        "height": "",
+                        "bust": "",
+                        "overall": "0",
+                        "is_save": "0",
+                        "typical_size": "0",
+                        "waist": "",
+                        "hips": ""
+                    },
+                    "attr_strs": "Color:COFFEE/Size:M",
+                    "goods_title": ""
+                }
+            ]
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 5,
+            "size_over_all": {
+                "ok": 1,
+                "big": 0,
+                "small": 0,
+                "all_size": 1
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 4.5,
+            "size_over_all": {
+                "ok": 2,
+                "big": 0,
+                "small": 0,
+                "all_size": 2
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 5,
+            "size_over_all": {
+                "ok": 1,
+                "big": 0,
+                "small": 0,
+                "all_size": 1
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 5,
+            "size_over_all": {
+                "ok": 2,
+                "big": 0,
+                "small": 0,
+                "all_size": 2
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    },
+    {
+        "statusCode": 200,
+        "result": {
+            "currLangReviewStatus": 0,
+            "total": 0,
+            "picNum": 0,
+            "total_page": 0,
+            "current_page": "1",
+            "page_size": "10",
+            "avg_rate_all": 0,
+            "size_over_all": {
+                "ok": 0,
+                "big": 0,
+                "small": 0,
+                "all_size": 0
+            },
+            "data": []
+        }
+    }
+]
