@@ -1,0 +1,3548 @@
+[
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.4IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.4IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.4IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.5IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.9IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "50.4IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "24.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.9IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.5IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "52.4IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "25.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "19.1IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "54.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "25.8IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "19.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "56.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "26.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "20.3IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/28/goods-img/1693185258977895948.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/28/goods-img/1693185258327110330.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/28/goods-img/1693185258043182093.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/28/goods-img/1693185258785672396.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/28/goods-img/1693185258266778509.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/28/goods-img/1693185258354425216.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/28/goods-img/1693185258408280444.png"
+            }
+        ],
+        "goods_id": 1211987,
+        "goods_name": "ZAFUL Fire Flame Graphic Y2K Aesthetic Sweater",
+        "shop_price": "33.99",
+        "time_description": "Processing Time: Your item will be shipped out within 3 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Pattern:</strong> Flame <br />             <strong>Material:</strong> Polyacrylic <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall,Spring,Winter <br />             <strong>Weight:</strong> 0.5800kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "41.7IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "20.5IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.4IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "20.9IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.9IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.5IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.7IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/10/17/goods-img/1666057405574550372.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/10/17/goods-img/1666057405953527534.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/10/17/goods-img/1666057406588594719.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/10/17/goods-img/1666057406777068196.png"
+            }
+        ],
+        "goods_id": 1197668,
+        "goods_name": "Solid Cable Knit Crew Neck Sweater",
+        "shop_price": "18.99",
+        "time_description": "Processing Time: Your item will be shipped out within 3 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Fashion <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Pattern:</strong> Solid Color <br />             <strong>Material:</strong> Polyacrylic,Polyamide,Polyester <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall,Winter <br />             <strong>Thickness:</strong> Thick <br />             <strong>Weight:</strong> 0.6700kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.7IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "16.1IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.5IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "45.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "16.5IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.7IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.3IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "47.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.0IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "49.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.6IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "29.5IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.8IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "52.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.2IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/10/goods-img/1696904899485353025.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/10/goods-img/1696904899915803591.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/10/goods-img/1696904899567518511.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/10/goods-img/1696904899478058087.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/10/goods-img/1696904899098044556.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/10/goods-img/1696904899715946437.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/10/goods-img/1696904899484233828.png"
+            }
+        ],
+        "goods_id": 1277729,
+        "goods_name": "ZAFUL Men's Casual Daily Mock Neck Long Sleeve Solid Color Ribbed Knit Quarter Zip Front Sweater",
+        "shop_price": "16.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual,Fashion <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Mock Collar <br />             <strong>Pattern:</strong> Solid Color <br />             <strong>Decoration:</strong> Zip,Zip Front <br />             <strong>Material:</strong> Polyester,Rayon <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall,Spring,Winter <br />             <strong>Weight:</strong> 0.6000kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "41.7IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.1IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.5IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.8IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "51.2IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.9IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.8IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/11/goods-img/1696617621450351671.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1696617621115291641.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1696617621036708877.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1696617621178472465.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1696617621003397463.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/11/goods-img/1696617621294143840.png"
+            }
+        ],
+        "goods_id": 1285536,
+        "goods_name": "ZAFUL Men's Terry Cloth Bear Embroidered Patch Design Round Neck Pullover Knitted Sweater",
+        "shop_price": "19.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Round Collar <br />             <strong>Pattern:</strong> Bear <br />             <strong>Decoration:</strong> Embroidery,Patch Designs <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Winter <br />             <strong>Weight:</strong> 0.5300kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.1IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "38.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.7IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "40.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.3IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "42.1IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.6IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.9IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "26.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.7IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.5IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "26.4IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/10/goods-img/1696716622674341406.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/10/goods-img/1696716622844188665.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/10/goods-img/1696716622065197222.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/10/goods-img/1696716622969690483.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/10/goods-img/1696716622682400224.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/10/goods-img/1696716622708900141.png"
+            }
+        ],
+        "goods_id": 1285871,
+        "goods_name": "ZAFUL Men's V Neck Striped Geometric Cricket Sweater",
+        "shop_price": "28.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily,School <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> V-Collar <br />             <strong>Pattern:</strong> Colorblock,Striped <br />             <strong>Material:</strong> Polyester,Polyurethane <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Fall,Spring <br />             <strong>Weight:</strong> 0.4650kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "41.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.7IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.1IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.4IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "50.8IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.9IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.8IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/11/goods-img/1697653881974503389.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/11/goods-img/1697653881232143554.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/11/goods-img/1697653881852539289.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/11/goods-img/1697653881573220423.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/11/goods-img/1697653881510372752.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/11/goods-img/1697653881843591764.png"
+            }
+        ],
+        "goods_id": 1288463,
+        "goods_name": "ZAFUL Men's Colorblock Striped Bear Patched Design Knitted Pullover Sweater",
+        "shop_price": "14.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Round Collar <br />             <strong>Pattern:</strong> Bear,Colorblock,Striped <br />             <strong>Decoration:</strong> Appliques,Patch Designs <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Winter <br />             <strong>Weight:</strong> 0.5100kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "39.0IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "16.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "41.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.1IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.7IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.1IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.4IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.9IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.6IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/01/goods-img/1697149707082469562.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/01/goods-img/1697149707595159441.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/01/goods-img/1697149707320963101.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/01/goods-img/1697149707013557628.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/01/goods-img/1697149707928512663.png"
+            }
+        ],
+        "goods_id": 1287431,
+        "goods_name": "ZAFUL Men's Basic Minimalist Style Solid Color Notched Collar Knitted Casual Pullover Sweaters",
+        "shop_price": "32.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Basic,Casual,Minimalist <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Notched Collar,Turn-down Collar <br />             <strong>Pattern:</strong> Solid Color <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Winter <br />             <strong>Weight:</strong> 0.5500kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "XS",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "34.6IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "14.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "36.6IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "24.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "15.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "38.6IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "16.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "40.6IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "25.4IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "0.0IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "0.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "0.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "0.0IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/10/19/goods-img/1666149036303660683.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/10/19/goods-img/1666149036430463429.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/10/19/goods-img/1666149036506448048.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/10/19/goods-img/1666149036141697486.png"
+            }
+        ],
+        "goods_id": 1198613,
+        "goods_name": "UNISEX Turtleneck Solid Color Skin Friendly Basic Pullover Sweater Warmth Winter Essentials Jumper",
+        "shop_price": "15.59",
+        "time_description": "Processing Time: Your item will be shipped out within 3 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Turtlecollar <br />             <strong>Pattern:</strong> Solid Color <br />             <strong>Material:</strong> Cotton,Polyester <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall,Spring,Winter <br />             <strong>Weight:</strong> 0.4000kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.3IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "45.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.0IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "47.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.7IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.8IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "49.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "51.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "19.4IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "29.5IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "53.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "20.0IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1693173858826289953.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1693173858129149541.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1693173858155987333.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1693173858333410681.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1693173858947323076.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1693173858775360489.png"
+            }
+        ],
+        "goods_id": 1278747,
+        "goods_name": "ZAFUL Men's Athleisure Style Daily Solid Color Polo Collar Button Front Long Sleeve Pullover Jumper Knitwear",
+        "shop_price": "29.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Athleisure,Casual,Fashion <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Polo Collar <br />             <strong>Pattern:</strong> Solid Color <br />             <strong>Decoration:</strong> Button <br />             <strong>Material:</strong> Polyester,Polyurethane,Rayon <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Fall,Spring <br />             <strong>Weight:</strong> 0.5250kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.3IN"
+                            },
+                            {
+                                "title": "Back Length",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.5IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.9IN"
+                            },
+                            {
+                                "title": "Back Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.4IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.5IN"
+                            },
+                            {
+                                "title": "Back Length",
+                                "valueStr": "25.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.0IN"
+                            },
+                            {
+                                "title": "Back Length",
+                                "valueStr": "25.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.9IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/11/04/goods-img/1667951716454146005.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/11/04/goods-img/1667951716292211446.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/11/04/goods-img/1667951716147740157.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/11/04/goods-img/1667951716555186896.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/11/04/goods-img/1667951716135594659.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/11/04/goods-img/1667951716108205112.png"
+            }
+        ],
+        "goods_id": 1209156,
+        "goods_name": "Turtleneck Elk Geometric Christmas Pullover Sweater",
+        "shop_price": "31.99",
+        "time_description": "Processing Time: Your item will be shipped out within 3 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual,Preppy Style <br />             <strong>Occasions:</strong> Christmas Day,Daily,Home,Outdoor,School <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Loose <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Turtlecollar <br />             <strong>Pattern:</strong> Colorblock,Elk,Geometric <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Fall,Spring,Winter <br />             <strong>Weight:</strong> 0.5450kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.1IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "8.1IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "45.7IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "8.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.0IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "8.5IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "50.4IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.9IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.4IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "8.7IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/04/07/goods-img/1682272456620166375.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/04/07/goods-img/1682272456464379301.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/04/07/goods-img/1682272456688155690.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/04/07/goods-img/1682272456078261234.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/04/07/goods-img/1682272456042252778.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/04/07/goods-img/1682272456022586880.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/04/07/goods-img/1682272456480768600.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/04/07/goods-img/1682272456083921827.png"
+            }
+        ],
+        "goods_id": 1249058,
+        "goods_name": "ZAFUL Lapel Collar Solid Color Rhombus Openwork Short Sleeves Knitted Top",
+        "shop_price": "12.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Cardigans <br />             <strong>Style:</strong> Casual,Fashion <br />             <strong>Occasions:</strong> Beach,Daily,Vacation <br />             <strong>Sleeves Length:</strong> Short Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Pattern:</strong> Solid Color <br />             <strong>Decoration:</strong> Button,Openwork,See Through <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Summer <br />             <strong>Weight:</strong> 0.4400kg <br />             <strong>Package:</strong> 1 x Top         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "41.7IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.4IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "20.9IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.9IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.5IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "2XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.0IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "24.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.4IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/12/goods-img/1697396987336892362.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/12/goods-img/1697396987477322167.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/26/goods-img/1697396987966666599.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/26/goods-img/1697396987092105695.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/12/goods-img/1697396987704868242.png"
+            }
+        ],
+        "goods_id": 1287659,
+        "goods_name": "Men's Basic Minimalist Style Button Up V-neck Front Pocket Knitted Cardigan",
+        "shop_price": "14.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Cardigans <br />             <strong>Style:</strong> Basic,Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> V-Collar <br />             <strong>Pattern:</strong> Solid Color <br />             <strong>Decoration:</strong> Pockets <br />             <strong>Material:</strong> Polyester <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall <br />             <strong>Weight:</strong> 0.4750kg <br />             <strong>Package:</strong> 1 x Cardigan         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "XS",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "41.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "42.9IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.5IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "22.4IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/26/goods-img/1696617641631507571.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/26/goods-img/1696617641013450107.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/26/goods-img/1696617641164193293.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/26/goods-img/1696617641486239274.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/26/goods-img/1696617641850628275.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/26/goods-img/1696617641995832962.png"
+            }
+        ],
+        "goods_id": 1285541,
+        "goods_name": "Men's Daily Colorblock Patchwork Zip Up Mock Neck Long Sleeve Sweater Cardiagn",
+        "shop_price": "22.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Cardigans <br />             <strong>Style:</strong> Casual,Fashion <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Mock Collar <br />             <strong>Pattern:</strong> Colorblock <br />             <strong>Decoration:</strong> Zip,Zip Front <br />             <strong>Material:</strong> Polyester <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall,Spring,Winter <br />             <strong>Weight:</strong> 0.7450kg <br />             <strong>Package:</strong> 1 x Cardigan         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "45.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "47.2IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "49.2IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "51.2IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.1IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "53.1IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.6IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2024/08/30/goods-img/1727031441582323032.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2024/08/30/goods-img/1727031441430677641.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2024/08/30/goods-img/1727031441666838736.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2024/08/30/goods-img/1727031441032409925.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2024/08/30/goods-img/1727031441027574561.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2024/08/30/goods-img/1727031441986319231.png"
+            }
+        ],
+        "goods_id": 1303741,
+        "goods_name": "Men's Multicolored Yarn Ombre Half Buttoned Polo Collar Long Sleeve Pullover Sweater",
+        "shop_price": "17.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Polo Collar <br />             <strong>Pattern:</strong> Ombre <br />             <strong>Decoration:</strong> Button <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall,Spring,Winter <br />             <strong>Weight:</strong> 0.5700kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.1IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "38.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "14.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.7IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "40.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "14.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.3IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "42.1IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.4IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "15.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.9IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.8IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "15.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.5IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "26.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "16.4IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/03/goods-img/1698618343372952188.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/03/goods-img/1698618343205615719.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/03/goods-img/1698618343926352721.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/03/goods-img/1698618343220119038.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/03/goods-img/1698618343001176353.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/03/goods-img/1698618343524140234.png"
+            }
+        ],
+        "goods_id": 1290398,
+        "goods_name": "ZAFUL Men's Daily Casual Contrast Edge Design Stripes Cable Knit Crew Neck Long Sleeves Sweater",
+        "shop_price": "14.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Fashion <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Pattern:</strong> Striped <br />             <strong>Material:</strong> Polyester,Polyurethane <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Fall,Spring,Winter <br />             <strong>Weight:</strong> 0.4850kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.9IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.1IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "47.2IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "49.6IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "52.0IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.4IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "54.3IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.9IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1698102792349406018.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1698102792818662134.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1698102792877228041.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1698102792076265327.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1698102792289621481.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/08/goods-img/1698102792060636516.png"
+            }
+        ],
+        "goods_id": 1289413,
+        "goods_name": "ZAFUL Men's Ethnic Aztec Printed Knitted Round Neck Pullover Sweater",
+        "shop_price": "26.59",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Ethnic <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Round Collar <br />             <strong>Pattern:</strong> Aztec Print,Ethnic Print <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Winter <br />             <strong>Weight:</strong> 0.5800kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "40.6IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.4IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "28.5IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "42.5IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "29.1IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.5IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "29.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.5IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "30.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.4IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "30.9IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/09/07/goods-img/1664915970462926040.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/09/07/goods-img/1664915970647260152.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/09/07/goods-img/1664915970450291961.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/09/07/goods-img/1664915970962764558.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/09/07/goods-img/1664915970106254077.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/09/07/goods-img/1664915970697610709.png"
+            }
+        ],
+        "goods_id": 1190582,
+        "goods_name": "ZAFUL Raglan Sleeves Colorblock Chunky Sweater",
+        "shop_price": "15.99",
+        "time_description": "Processing Time: Your item will be shipped out within 3 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Fashion <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Pattern:</strong> Colorblock <br />             <strong>Material:</strong> Acrylic <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall,Spring <br />             <strong>Weight:</strong> 0.4800kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.9IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.7IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.4IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.8IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.2IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "51.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "24.0IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "53.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "19.4IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988231587742201.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988231662006945.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988231739164110.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988231378558164.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988231619147009.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988231011805893.png"
+            }
+        ],
+        "goods_id": 1283106,
+        "goods_name": "ZAFUL Men's Daily Zig Zag Stripes Pointelle Openwork Design Crew Neck Long Sleeve Knitwear",
+        "shop_price": "9.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Gender:</strong> For Men <br />             <strong>Clothes Type:</strong> Sweatshirts <br />             <strong>Style:</strong> Casual,Fashion <br />             <strong>Occasions:</strong> Daily <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Length:</strong> Regular <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Pattern Type:</strong> Chevron/Zig Zag,Striped <br />             <strong>Decoration:</strong> Openwork,Semi-sheer <br />             <strong>Material:</strong> Polyester <br />             <strong>Material Stretch:</strong> No Stretch <br />             <strong>Season:</strong> Fall,Spring <br />             <strong>Weight:</strong> 0.3050kg <br />             <strong>Package:</strong> 1 x Sweatshirt         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.4IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.3IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "45.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.0IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "47.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.8IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "49.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.5IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "51.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.9IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "53.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "19.4IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988204871051282.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988204061441932.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988204509669068.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988204010717816.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988204354501162.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/07/17/goods-img/1694988204835951643.png"
+            }
+        ],
+        "goods_id": 1283101,
+        "goods_name": "ZAFUL Men's Casual Letter BROOKLYN NEW YORK Graphic Printed Jacquard Textured Cable Knit Crew Neck Long Sleeve Sweater",
+        "shop_price": "30.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Athleisure,Casual,Fashion,Streetwear <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Pattern:</strong> Graphic,Letter <br />             <strong>Decoration:</strong> Jacquard,Textured <br />             <strong>Material:</strong> Polyester,Polyurethane <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Fall,Spring,Winter <br />             <strong>Weight:</strong> 0.5300kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "41.7IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.1IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.5IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.5IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.8IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "51.2IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "29.9IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.8IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/07/goods-img/1697149723494812037.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/07/goods-img/1697149723555386810.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/07/goods-img/1697149723067088305.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/07/goods-img/1697149723024152769.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/07/goods-img/1697149723697391853.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/07/goods-img/1697149723272137805.png"
+            }
+        ],
+        "goods_id": 1287435,
+        "goods_name": "ZAFUL Men's Casual Letter New York Printed Round Neck Fuzzy Pullover Sweater",
+        "shop_price": "15.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Round Collar <br />             <strong>Pattern:</strong> Letter <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Winter <br />             <strong>Weight:</strong> 0.5300kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "17.7IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "41.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "15.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.3IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "15.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.9IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "45.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "16.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.7IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.5IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "47.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "16.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.1IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "50.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "26.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.4IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/17/goods-img/1698618393328159993.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/17/goods-img/1698618393788646079.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/17/goods-img/1698618393122612201.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/17/goods-img/1698618393076717669.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/17/goods-img/1698618393667177660.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/10/17/goods-img/1698618393975676673.png"
+            }
+        ],
+        "goods_id": 1290403,
+        "goods_name": "ZAFUL Men's Daily Cable Knit Stand Collar Quarter Zip Playing Card Heart A Embroidered Long Sleeve Pullover Jumper Sweater",
+        "shop_price": "30.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Stand Collar <br />             <strong>Pattern:</strong> Heart,Playing Cards <br />             <strong>Decoration:</strong> Embroidery,Zip <br />             <strong>Material:</strong> Polyester,Polypropylene <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Fall,Winter <br />             <strong>Weight:</strong> 0.5400kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "27.6IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.1IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "43.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "15.9IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "18.7IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "45.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "16.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.3IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "47.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "16.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.7IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "19.9IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "49.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "26.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.4IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.5IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "52.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "26.4IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.0IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/13/goods-img/1694570564283426731.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/13/goods-img/1694570564213792865.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/13/goods-img/1694570564867118711.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/13/goods-img/1694570564735264193.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/13/goods-img/1694570564150920490.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/09/13/goods-img/1694570564752322971.png"
+            }
+        ],
+        "goods_id": 1281963,
+        "goods_name": "ZAFUL Men's Daily Casual Crew Neck Solid Color Long Sleeve Jumper Sweater",
+        "shop_price": "12.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Pattern:</strong> Solid Color <br />             <strong>Material:</strong> Polyester <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall <br />             <strong>Weight:</strong> 0.3650kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "20.9IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "45.7IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.3IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.7IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "47.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.0IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "17.7IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "28.7IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.4IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "49.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.4IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.2IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "29.1IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.2IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "52.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "24.8IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "18.8IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Length",
+                                "valueStr": "29.5IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "24.0IN"
+                            },
+                            {
+                                "title": "Chest",
+                                "valueStr": "54.3IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "25.2IN"
+                            },
+                            {
+                                "title": "Sleeve Width",
+                                "valueStr": "19.4IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1695592766479363250.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1695592766753870601.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1695592766419222279.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1695592766801771408.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1695592766764423363.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2023/08/02/goods-img/1695592766279995982.png"
+            }
+        ],
+        "goods_id": 1284520,
+        "goods_name": "ZAFUL Men's Daily Casual CALIFORNIA Print Striped Trim Drop Shoulder Crew Neck Cricket Jumper Sweater",
+        "shop_price": "13.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Casual,Preppy Style <br />             <strong>Occasions:</strong> Daily,School <br />             <strong>Sleeves Length:</strong> Long Sleeves <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Long <br />             <strong>Collar:</strong> Crew Collar <br />             <strong>Pattern:</strong> Letter,Striped <br />             <strong>Material:</strong> Polyester,Rayon <br />             <strong>Material Stretch:</strong> High Stretch <br />             <strong>Season:</strong> Fall <br />             <strong>Weight:</strong> 0.3450kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    },
+    {
+        "same_goods_spec": {
+            "size": [
+                {
+                    "attr_value": "S",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "42.1IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.2IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "21.9IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "20.1IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "M",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "44.1IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "26.8IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "22.4IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "20.5IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "L",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "46.1IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "27.4IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.0IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "20.9IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "48.0IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.0IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "23.6IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.3IN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "attr_value": "XXL",
+                    "data_tips_arr": {
+                        "str_arr": [
+                            {
+                                "title": "Chest",
+                                "valueStr": "50.0IN"
+                            },
+                            {
+                                "title": "Length",
+                                "valueStr": "28.5IN"
+                            },
+                            {
+                                "title": "Shoulder Width",
+                                "valueStr": "24.2IN"
+                            },
+                            {
+                                "title": "Sleeve Length",
+                                "valueStr": "21.7IN"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pictures": [
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/07/22/goods-img/1660074511484624114.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/07/22/goods-img/1660074511262972647.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/07/22/goods-img/1660074511096069825.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/07/22/goods-img/1660074511637667766.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/07/22/goods-img/1660074511644274824.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/07/22/goods-img/1660074511568441682.jpg"
+            },
+            {
+                "img_url": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2022/07/22/goods-img/1660074511533127387.png"
+            }
+        ],
+        "goods_id": 1160597,
+        "goods_name": "ZAFUL HAVE A NICE DAY Bear Rhombus Pattern Buttons Sweater",
+        "shop_price": "14.99",
+        "time_description": "Processing Time: Your item will be shipped out within 5-10 business days.",
+        "goods_desc_data": "<div class=\"xxkkk\">\n<div>  </div><div class=\"xxkkk\">\n    <div class=\"xxkkk20\">\n            <strong>Type:</strong> Pullovers <br />             <strong>Style:</strong> Ethnic <br />             <strong>Occasions:</strong> Daily <br />             <strong>Sleeves Length:</strong> Full <br />             <strong>Fit Type:</strong> Regular Fit <br />             <strong>Length:</strong> Regular <br />             <strong>Collar:</strong> Turn-down Collar <br />             <strong>Pattern:</strong> Bear,Colorblock,Geometric,Letter,Plaid,Rhombus <br />             <strong>Decoration:</strong> Button <br />             <strong>Material:</strong> Acrylic,Spandex,Viscose <br />             <strong>Material Stretch:</strong> Slight Stretch <br />             <strong>Season:</strong> Fall,Spring <br />             <strong>Weight:</strong> 0.4700kg <br />             <strong>Package:</strong> 1 x Sweater         \n    </div>\n    \n</div>\n<div class=\"xkclear\"></div>\n\n\n\n\n\n\n</div>"
+    }
+]
